@@ -9,7 +9,7 @@ limit = int(input("Jumlah: "))
 time.sleep(2)
 
 # while i<int(limit):
-    while count<int(limit)
+    while count<int('limit')
     count+=1
     if count > limit:
         break
